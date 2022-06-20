@@ -1,0 +1,27 @@
+﻿<Page x:Class="WpfApp1.TourList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="TourList" Height="500" Width="500">
+    <!--
+    <Grid>
+        <ListView Name="tourListView" Height="300" Grid.Row="0" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="left" AllowDrop="True" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MouseDoubleClick="tourListView_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="관광지명" DisplayMemberBinding="{Binding titleData}" Width="300"/>
+                    <GridViewColumn Header="주소" DisplayMemberBinding="{Binding addrData}" Width="300"/>
+                    <GridViewColumn Header="사진1" DisplayMemberBinding="{Binding firstimageData}" Width="80"/>
+                    <GridViewColumn Header="사진2" DisplayMemberBinding="{Binding secondimageData}" Width="80"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Image Name ="imgDynamic1" VerticalAlignment="Bottom" Height="200" Width="250" HorizontalAlignment="Left"/>
+        <Image Name ="imgDynamic2" VerticalAlignment="Bottom" Height="200" Width="250" HorizontalAlignment="Right"/>
+
+    </Grid>
+    -->
+    
+</Page>
